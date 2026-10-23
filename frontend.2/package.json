@@ -1,0 +1,11 @@
+{
+  "name": "lowkey",
+  "version": "1.0.0",
+  "description": "LOWKEY \u2013 early academic risk detection and student support prototype (fictional demo data)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
